@@ -1,0 +1,162 @@
+// Validating benchmarks:
+// ***** BenchmarkRunner: Start   *****
+// ***** Found 1 benchmark(s) in total *****
+// ***** Building 1 exe(s) in Parallel: Start   *****
+// start dotnet restore  /p:UseSharedCompilation=false /p:BuildInParallel=false /m:1 /p:Deterministic=true /p:Optimize=true in D:\Coding Problems\Hackerrank\bin\Release\net5\e950bcb9-21a5-4ef6-9553-3ceaad58d3f6
+// command took 2.08s and exited with 0
+// start dotnet build -c Release  --no-restore /p:UseSharedCompilation=false /p:BuildInParallel=false /m:1 /p:Deterministic=true /p:Optimize=true in D:\Coding Problems\Hackerrank\bin\Release\net5\e950bcb9-21a5-4ef6-9553-3ceaad58d3f6
+// command took 2.65s and exited with 0
+// ***** Done, took 00:00:05 (5.26 sec)   *****
+// Found 1 benchmarks:
+//   Miscellaneous.TestWithBenchMark: DefaultJob
+
+// **************************
+// Benchmark: Miscellaneous.TestWithBenchMark: DefaultJob
+// *** Execute ***
+// Launch: 1 / 1
+// Execute: dotnet "e950bcb9-21a5-4ef6-9553-3ceaad58d3f6.dll" --benchmarkName "Hackerrank.Miscellaneous.TestWithBenchMark" --job "Default" --benchmarkId 0 in D:\Coding Problems\Hackerrank\bin\Release\net5\e950bcb9-21a5-4ef6-9553-3ceaad58d3f6\bin\Release\net5.0
+// BeforeAnythingElse
+
+// Benchmark Process Environment Information:
+// Runtime=.NET 5.0.8 (5.0.821.31504), X64 RyuJIT
+// GC=Concurrent Workstation
+// Job: DefaultJob
+
+OverheadJitting  1: 1 op, 231900.00 ns, 231.9000 us/op
+Started Running 0 1
+Started Running 1 1
+Started Running 2 1
+Started Running 3 1
+Started Running 4 1
+Started Running 5 1
+Started Running 6 1
+Started Running 7 1
+Started Running 8 1
+Started Running 9 1
+Started Running 10 1
+Started Running 11 1
+Started Running 12 1
+Started Running 13 1
+Started Running 14 1
+Started Running 15 1
+Started Running 16 1
+Started Running 17 1
+Started Running 18 1
+Started Running 19 1
+Started Running 20 1
+Started Running 21 1
+Started Running 22 1
+Started Running 23 1
+Started Running 24 1
+Started Running 25 1
+Started Running 26 1
+Started Running 27 1
+Started Running 28 1
+Started Running 29 1
+Started Running 30 1
+Started Running 31 1
+Started Running 32 1
+Started Running 33 1
+Started Running 34 1
+Started Running 35 1
+Started Running 36 1
+Started Running 37 1
+Started Running 38 1
+Started Running 39 1
+Started Running 40 1
+Started Running 41 1
+Started Running 42 1
+Started Running 43 1
+Started Running 44 1
+Started Running 45 1
+Started Running 46 1
+Started Running 47 1
+Started Running 48 1
+Started Running 49 1
+Started Running 50 1
+Started Running 51 1
+Started Running 52 1
+Started Running 53 1
+Started Running 54 1
+Started Running 55 1
+Started Running 56 1
+Started Running 57 1
+Started Running 58 1
+Started Running 59 1
+Started Running 60 1
+Started Running 61 1
+Started Running 62 1
+Started Running 63 1
+Started Running 64 1
+Started Running 65 1
+Started Running 66 1
+Started Running 67 1
+Started Running 68 1
+Started Running 69 1
+Started Running 70 1
+Started Running 71 1
+Started Running 72 1
+Started Running 73 1
+Started Running 74 1
+Started Running 75 1
+Started Running 76 1
+Started Running 77 1
+Started Running 78 1
+Started Running 79 1
+Started Running 80 1
+Started Running 81 1
+Started Running 82 1
+Started Running 83 1
+Started Running 84 1
+Started Running 85 1
+Started Running 86 1
+Started Running 87 1
+Started Running 88 1
+Started Running 89 1
+Started Running 90 1
+Started Running 91 1
+Started Running 92 1
+Started Running 93 1
+Started Running 94 1
+Started Running 95 1
+Started Running 96 1
+Started Running 97 1
+Started Running 98 1
+Started Running 99 1
+Started Running 100 1
+Started Running 101 1
+Started Running 102 1
+Started Running 103 1
+Started Running 104 1
+Started Running 105 1
+Started Running 106 1
+Started Running 107 1
+Started Running 108 1
+Started Running 109 1
+Started Running 110 1
+Started Running 111 1
+Started Running 112 1
+Started Running 113 1
+Started Running 114 1
+Started Running 115 1
+Started Running 116 1
+Started Running 117 1
+Started Running 118 1
+Started Running 119 1
+Started Running 120 1
+Started Running 121 1
+Started Running 122 1
+Started Running 123 1
+Started Running 124 1
+Started Running 125 1
+Started Running 126 1
+Started Running 127 1
+Started Running 128 1
+Started Running 129 1
+Started Running 130 1
+Started Running 131 1
+Started Running 132 1
+Started Running 133 1
+Started Running 134 1
+Started Running 135 1
+Started Running 136 1
